@@ -1,2 +1,1 @@
-# c-cplusplus
 C / C++
